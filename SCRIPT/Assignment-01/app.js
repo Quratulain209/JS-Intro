@@ -1,12 +1,12 @@
                         // 11-Apr-23
 
-            //   Task 01     
+            //   Task 01: Calculate Zakat 
 //  zakatPercentage = 0.025;
 //  userInput = +prompt("Enter your Zakat value");
 //  Result = zakatPercentage *  userInput;
 // alert("Your Zakat value is "+ Result);
 
-            // Task 02
+            // Task 02: Fitrah Amount
 // var Wheat = 250
 // var Dates = 2100
 // var Barley = 450
@@ -35,7 +35,7 @@
 // }
 // alert("Total Fitrah Amount of Your Family is: "+TotalFitrah)
 
-            // Task 03
+            // Task 03: Guess SecretNumber
 // var secretNumber = 5;
 // var userInput = prompt("Guess a Secret Number: ");
 // if(userInput == secretNumber)
@@ -51,14 +51,14 @@
 //         alert("Entered number is too low, Guess Again")
 // }
 
-            // Task 04
+            // Task 04: First Letter Capitalized
 // var userName = prompt("Enter your name");
 // userName = userName.toLowerCase();
 //  var a= userName[0].toUpperCase();
 //  var x = a + userName.slice(1);
 //  alert(x);
 
-            // Task 05
+            // Task 05: creating a simple phonebook 
 // var contactNames=[];
 // var contactNumbers=[];
 
@@ -73,7 +73,7 @@
 
 // alert("Name: "+contactNames[0]+"  "+"Number: "+contactNumbers[0]+"\nName: "+contactNames[1]+"  "+"Number: "+contactNumbers[1]+"\nName: "+contactNames[2]+"  "+"Number: "+contactNumbers[2]);
 
-        //     Task 06
+        //     Task 06: 
 // var Products = ['Linear' ,'Foundation' ,'Mascara' ,'Highlighter'];
 // var productSell = prompt("Enter the Position of that elemment you want: ");
 // if(productSell==0){
@@ -95,7 +95,7 @@
 // alert("Remaining Items:  "+Products);
 // alert("Total number of Items Remaining:  "+Products.length);
 
-        //       Task 07
+        //       Task 07: Eligibility for Vote
 // var nationality = prompt("Enter your Nationality: ");
 // nationality = nationality.toLowerCase();
 // var gender = prompt("Enter your Gender: ");
