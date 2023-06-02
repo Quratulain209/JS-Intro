@@ -35,3 +35,8 @@
 // var numToBeAdded = 7;
 // var newNum = originalNum + numToBeAdded;
 // alert(newNum)
+
+const str = '101010'; // Binary string
+const num = parseInt(str, 2); // Convert binary string to integer
+
+alert(num); // Output: 42
